@@ -1,0 +1,523 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScoreboardAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 589}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 559}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScoreboardAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1339}}";
+			sepNavSelRange = "{436, 33}";
+			sepNavVisRange = "{0, 1379}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Scoreboard */ = {
+		activeExec = 0;
+		executables = (
+			3DFF3ED61380D9CD0022D490 /* Scoreboard */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3DFF3ED61380D9CD0022D490 /* Scoreboard */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Scoreboard */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Scoreboard */,
+		);
+		breakpoints = (
+			3DD8F5A6138CF9AB002F71CE /* VollyballMainViewController.m:1168 */,
+			3DD8F5A8138CF9B0002F71CE /* VollyballMainViewController.m:1168 */,
+		);
+		codeSenseManager = 3DFF3EFF1380D9DA0022D490 /* Code sense */;
+		executables = (
+			3DFF3ED61380D9CD0022D490 /* Scoreboard */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1049,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 328682780;
+			PBXWorkspaceStateSaveDate = 328682780;
+		};
+		perUserProjectItems = {
+			3D1302B8138E7DF400EABD97 = 3D1302B8138E7DF400EABD97 /* PBXBookmark */;
+			3D1302B9138E7DF400EABD97 = 3D1302B9138E7DF400EABD97 /* PBXBookmark */;
+			3D14F38913974D1D00143B8F /* PBXTextBookmark */ = 3D14F38913974D1D00143B8F /* PBXTextBookmark */;
+			3D14F38A13974D1D00143B8F /* PBXTextBookmark */ = 3D14F38A13974D1D00143B8F /* PBXTextBookmark */;
+			3D4429F913938F820006E7ED = 3D4429F913938F820006E7ED /* PBXTextBookmark */;
+			3D4429FB13938F820006E7ED = 3D4429FB13938F820006E7ED /* PBXTextBookmark */;
+			3D442A111393914A0006E7ED = 3D442A111393914A0006E7ED /* PBXTextBookmark */;
+			3D442A8B1393A5020006E7ED = 3D442A8B1393A5020006E7ED /* PBXTextBookmark */;
+			3D85E0B4138CCDCE0046857C = 3D85E0B4138CCDCE0046857C /* PlistBookmark */;
+			3D85E0B5138CCDCE0046857C = 3D85E0B5138CCDCE0046857C /* PBXBookmark */;
+			3D85E0EC138CCEC70046857C = 3D85E0EC138CCEC70046857C /* PBXBookmark */;
+			3DB97FBD1395FE4D007D2626 = 3DB97FBD1395FE4D007D2626 /* PBXTextBookmark */;
+			3DB97FBE1395FE4D007D2626 = 3DB97FBE1395FE4D007D2626 /* PBXTextBookmark */;
+			3DB97FBF1395FE4D007D2626 = 3DB97FBF1395FE4D007D2626 /* PBXTextBookmark */;
+			3DB97FC11395FE4D007D2626 = 3DB97FC11395FE4D007D2626 /* PBXTextBookmark */;
+			3DB97FC21395FE4D007D2626 = 3DB97FC21395FE4D007D2626 /* PBXTextBookmark */;
+			3DB982A01396674D007D2626 = 3DB982A01396674D007D2626 /* PBXTextBookmark */;
+			3DB982A11396674D007D2626 = 3DB982A11396674D007D2626 /* PBXTextBookmark */;
+			3DB982A21396674D007D2626 = 3DB982A21396674D007D2626 /* PBXTextBookmark */;
+			3DB982A31396674D007D2626 = 3DB982A31396674D007D2626 /* PBXTextBookmark */;
+			3DB982A41396674D007D2626 = 3DB982A41396674D007D2626 /* PBXTextBookmark */;
+			3DB982A51396674D007D2626 = 3DB982A51396674D007D2626 /* PBXTextBookmark */;
+			3DB982A61396674D007D2626 = 3DB982A61396674D007D2626 /* PBXTextBookmark */;
+			3DC6E669138149F800CA60F9 = 3DC6E669138149F800CA60F9 /* PBXTextBookmark */;
+			3DD8F61E138D0371002F71CE = 3DD8F61E138D0371002F71CE /* PBXBookmark */;
+			3DD8F61F138D0371002F71CE = 3DD8F61F138D0371002F71CE /* PBXBookmark */;
+			3DD8F620138D0371002F71CE = 3DD8F620138D0371002F71CE /* PBXBookmark */;
+			3DD8F622138D0371002F71CE = 3DD8F622138D0371002F71CE /* PBXBookmark */;
+			3DFF3FEA1380ECAB0022D490 = 3DFF3FEA1380ECAB0022D490 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3DFF3EFE1380D9DA0022D490 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3D1302B8138E7DF400EABD97 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3D22B00C138D2CD4001433A7 /* TutorialVlyBall.png */;
+	};
+	3D1302B9138E7DF400EABD97 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 467938321382D6BD0048A0A5 /* TutorialVlyBall.png */;
+	};
+	3D14F38913974D1D00143B8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264513799D4E00308704 /* VollyballMainViewController.m */;
+		name = "VollyballMainViewController.m: 1121";
+		rLen = 14;
+		rLoc = 31833;
+		rType = 0;
+		vrLen = 1222;
+		vrLoc = 31191;
+	};
+	3D14F38A13974D1D00143B8F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264513799D4E00308704 /* VollyballMainViewController.m */;
+		name = "VollyballMainViewController.m: 1121";
+		rLen = 14;
+		rLoc = 31833;
+		rType = 0;
+		vrLen = 1218;
+		vrLoc = 31191;
+	};
+	3D4429F913938F820006E7ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 467938351382D6DF0048A0A5 /* TutorialViewController.m */;
+		name = "TutorialViewController.m: 44";
+		rLen = 0;
+		rLoc = 1196;
+		rType = 0;
+		vrLen = 1370;
+		vrLoc = 0;
+	};
+	3D4429FB13938F820006E7ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 467938341382D6DF0048A0A5 /* TutorialViewController.h */;
+		name = "TutorialViewController.h: 17";
+		rLen = 14;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 444;
+		vrLoc = 0;
+	};
+	3D442A111393914A0006E7ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46E16757137A9EAA0018B1C1 /* CountdownTimer.h */;
+		name = "CountdownTimer.h: 42";
+		rLen = 0;
+		rLoc = 1013;
+		rType = 0;
+		vrLen = 1166;
+		vrLoc = 80;
+	};
+	3D442A8B1393A5020006E7ED /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46E16758137A9EAA0018B1C1 /* CountdownTimer.m */;
+		name = "CountdownTimer.m: 37";
+		rLen = 16;
+		rLoc = 718;
+		rType = 0;
+		vrLen = 956;
+		vrLoc = 1037;
+	};
+	3D85E0B4138CCDCE0046857C /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Scoreboard-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleVersion,
+		);
+		name = "/Users/Mahesh/Downloads/Scoreboard/Scoreboard-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	3D85E0B5138CCDCE0046857C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 467938581382D76E0048A0A5 /* RoundOkBtn.png */;
+	};
+	3D85E0EC138CCEC70046857C /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 468318311379CEA500A2AE0A /* blue2.png */;
+	};
+	3DB97FBD1395FE4D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68A688DC13827896008D9456 /* FBConnect.h */;
+		name = "FBConnect.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 0;
+	};
+	3DB97FBE1395FE4D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46C25BC813818A7A00C5E445 /* VollyballSettingsViewController.m */;
+		name = "VollyballSettingsViewController.m: 185";
+		rLen = 24;
+		rLoc = 5676;
+		rType = 0;
+		vrLen = 1793;
+		vrLoc = 4859;
+	};
+	3DB97FBF1395FE4D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46C25BC713818A7A00C5E445 /* VollyballSettingsViewController.h */;
+		name = "VollyballSettingsViewController.h: 25";
+		rLen = 122;
+		rLoc = 498;
+		rType = 0;
+		vrLen = 1237;
+		vrLoc = 0;
+	};
+	3DB97FC11395FE4D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScoreboardAppDelegate.m */;
+		name = "ScoreboardAppDelegate.m: 21";
+		rLen = 33;
+		rLoc = 436;
+		rType = 0;
+		vrLen = 1379;
+		vrLoc = 0;
+	};
+	3DB97FC21395FE4D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScoreboardAppDelegate.h */;
+		name = "ScoreboardAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 559;
+		vrLoc = 0;
+	};
+	3DB982A01396674D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8265313799D8F00308704 /* BasketballSettingsViewController.h */;
+		name = "BasketballSettingsViewController.h: 15";
+		rLen = 16;
+		rLoc = 313;
+		rType = 0;
+		vrLen = 1287;
+		vrLoc = 0;
+	};
+	3DB982A11396674D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8265413799D8F00308704 /* BasketballSettingsViewController.m */;
+		name = "BasketballSettingsViewController.m: 173";
+		rLen = 463;
+		rLoc = 6029;
+		rType = 0;
+		vrLen = 1168;
+		vrLoc = 6027;
+	};
+	3DB982A21396674D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264E13799D7700308704 /* BasketballMainViewController.h */;
+		name = "BasketballMainViewController.h: 37";
+		rLen = 15;
+		rLoc = 878;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 56;
+	};
+	3DB982A31396674D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264F13799D7700308704 /* BasketballMainViewController.m */;
+		name = "BasketballMainViewController.m: 577";
+		rLen = 58;
+		rLoc = 18856;
+		rType = 0;
+		vrLen = 928;
+		vrLoc = 18210;
+	};
+	3DB982A41396674D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264413799D4E00308704 /* VollyballMainViewController.h */;
+		name = "VollyballMainViewController.h: 107";
+		rLen = 0;
+		rLoc = 3173;
+		rType = 0;
+		vrLen = 1402;
+		vrLoc = 2313;
+	};
+	3DB982A51396674D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264513799D4E00308704 /* VollyballMainViewController.m */;
+		name = "VollyballMainViewController.m: 1121";
+		rLen = 14;
+		rLoc = 31833;
+		rType = 0;
+		vrLen = 977;
+		vrLoc = 31530;
+	};
+	3DB982A61396674D007D2626 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264513799D4E00308704 /* VollyballMainViewController.m */;
+		name = "VollyballMainViewController.m: 1121";
+		rLen = 14;
+		rLoc = 31833;
+		rType = 0;
+		vrLen = 1223;
+		vrLoc = 31191;
+	};
+	3DC6E669138149F800CA60F9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "VollyballSettingsViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1518;
+		vrLoc = 714;
+	};
+	3DD8F5A6138CF9AB002F71CE /* VollyballMainViewController.m:1168 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 46A8264513799D4E00308704 /* VollyballMainViewController.m */;
+		functionName = "-flipUpGuestLableSwapMethod";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1168;
+		modificationTime = 328603500.621917;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	3DD8F5A8138CF9B0002F71CE /* VollyballMainViewController.m:1168 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 46A8264513799D4E00308704 /* VollyballMainViewController.m */;
+		functionName = "-flipUpHomeLableSwapMethod";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 1168;
+		modificationTime = 328603500.6218718;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	3DD8F61E138D0371002F71CE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 4683174B1379B41100A2AE0A /* RoundSettingBtn.png */;
+	};
+	3DD8F61F138D0371002F71CE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 468316F31379A8DB00A2AE0A /* Default.png */;
+	};
+	3DD8F620138D0371002F71CE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 46E16794137AA5D60018B1C1 /* play.png */;
+	};
+	3DD8F622138D0371002F71CE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 46E167DB137AB6930018B1C1 /* pause.png */;
+	};
+	3DFF3ED61380D9CD0022D490 /* Scoreboard */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Scoreboard;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3DFF3EFE1380D9DA0022D490 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3DFF3EFF1380D9DA0022D490 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3DFF3FEA1380ECAB0022D490 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		name = "VollyballSettingsViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 653;
+		vrLoc = 0;
+	};
+	467938321382D6BD0048A0A5 /* TutorialVlyBall.png */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.png;
+		name = TutorialVlyBall.png;
+		path = Images/TutorialBsktBall.png;
+		sourceTree = SOURCE_ROOT;
+	};
+	467938341382D6DF0048A0A5 /* TutorialViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 622}}";
+			sepNavSelRange = "{317, 14}";
+			sepNavVisRange = "{0, 444}";
+		};
+	};
+	467938351382D6DF0048A0A5 /* TutorialViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 910}}";
+			sepNavSelRange = "{1196, 0}";
+			sepNavVisRange = "{0, 1370}";
+		};
+	};
+	46A8264413799D4E00308704 /* VollyballMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 1612}}";
+			sepNavSelRange = "{3173, 0}";
+			sepNavVisRange = "{2313, 1402}";
+			sepNavWindowFrame = "{{15, 52}, {1585, 826}}";
+		};
+	};
+	46A8264513799D4E00308704 /* VollyballMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 20085}}";
+			sepNavSelRange = "{31833, 14}";
+			sepNavVisRange = "{31191, 1218}";
+			sepNavWindowFrame = "{{15, 52}, {1585, 826}}";
+		};
+	};
+	46A8264E13799D7700308704 /* BasketballMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 1105}}";
+			sepNavSelRange = "{878, 15}";
+			sepNavVisRange = "{56, 1194}";
+		};
+	};
+	46A8264F13799D7700308704 /* BasketballMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 10075}}";
+			sepNavSelRange = "{18856, 58}";
+			sepNavVisRange = "{18210, 928}";
+			sepNavWindowFrame = "{{15, 52}, {1151, 826}}";
+		};
+	};
+	46A8265313799D8F00308704 /* BasketballSettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 572}}";
+			sepNavSelRange = "{313, 16}";
+			sepNavVisRange = "{0, 1287}";
+		};
+	};
+	46A8265413799D8F00308704 /* BasketballSettingsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2896, 2873}}";
+			sepNavSelRange = "{6029, 463}";
+			sepNavVisRange = "{6027, 1168}";
+		};
+	};
+	46C25BC713818A7A00C5E445 /* VollyballSettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 611}}";
+			sepNavSelRange = "{498, 122}";
+			sepNavVisRange = "{0, 1237}";
+		};
+	};
+	46C25BC813818A7A00C5E445 /* VollyballSettingsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1349, 3419}}";
+			sepNavSelRange = "{5676, 24}";
+			sepNavVisRange = "{4859, 1793}";
+		};
+	};
+	46E16757137A9EAA0018B1C1 /* CountdownTimer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 689}}";
+			sepNavSelRange = "{1013, 0}";
+			sepNavVisRange = "{80, 1166}";
+		};
+	};
+	46E16758137A9EAA0018B1C1 /* CountdownTimer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 2548}}";
+			sepNavSelRange = "{718, 16}";
+			sepNavVisRange = "{1037, 956}";
+		};
+	};
+	68A688DC13827896008D9456 /* FBConnect.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 589}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 706}";
+		};
+	};
+}

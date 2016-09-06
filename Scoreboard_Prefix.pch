@@ -1,0 +1,23 @@
+//
+// Prefix header for all source files of the 'Scoreboard' target in the 'Scoreboard' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import <GameKit/GameKit.h>
+#endif
+
+// The name of the GameKit session.
+#define SESSION_ID @"Scoreboard!"
+
+#define IPHONE_COLOR_PICKER_SAVE_DEFAULT
+
+typedef enum
+{
+	QuitReasonNoNetwork,          // no Wi-Fi or Bluetooth
+	QuitReasonConnectionDropped,  // communication failure with server
+	QuitReasonUserQuit,           // the user terminated the connection
+	QuitReasonServerQuit,         // the server quit the game (on purpose)
+}
+QuitReason;

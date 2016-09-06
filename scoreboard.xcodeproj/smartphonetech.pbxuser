@@ -1,0 +1,368 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ScoreboardAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 463}}";
+			sepNavSelRange = "{190, 0}";
+			sepNavVisRange = "{0, 559}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ScoreboardAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 1313}}";
+			sepNavSelRange = "{219, 0}";
+			sepNavVisRange = "{0, 1065}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Scoreboard */ = {
+		activeExec = 0;
+		executables = (
+			68A6887013827478008D9456 /* Scoreboard */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 68A6887013827478008D9456 /* Scoreboard */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Scoreboard */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Scoreboard */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 68A6889713827495008D9456 /* Code sense */;
+		executables = (
+			68A6887013827478008D9456 /* Scoreboard */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1016,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327322498;
+			PBXWorkspaceStateSaveDate = 327322498;
+		};
+		perUserProjectItems = {
+			68948031138292DD00599DA5 /* PBXTextBookmark */ = 68948031138292DD00599DA5 /* PBXTextBookmark */;
+			68948043138293BF00599DA5 /* PBXTextBookmark */ = 68948043138293BF00599DA5 /* PBXTextBookmark */;
+			68948044138293BF00599DA5 /* PBXTextBookmark */ = 68948044138293BF00599DA5 /* PBXTextBookmark */;
+			68948045138293BF00599DA5 /* PBXTextBookmark */ = 68948045138293BF00599DA5 /* PBXTextBookmark */;
+			68948046138293BF00599DA5 /* PBXTextBookmark */ = 68948046138293BF00599DA5 /* PBXTextBookmark */;
+			6894805A1382962700599DA5 /* PBXTextBookmark */ = 6894805A1382962700599DA5 /* PBXTextBookmark */;
+			689480D81382A3FC00599DA5 /* PBXTextBookmark */ = 689480D81382A3FC00599DA5 /* PBXTextBookmark */;
+			689480EB1382A7AA00599DA5 /* PBXTextBookmark */ = 689480EB1382A7AA00599DA5 /* PBXTextBookmark */;
+			689480EC1382A7AA00599DA5 /* PBXTextBookmark */ = 689480EC1382A7AA00599DA5 /* PBXTextBookmark */;
+			689481251382B09100599DA5 /* PBXTextBookmark */ = 689481251382B09100599DA5 /* PBXTextBookmark */;
+			689481261382B09100599DA5 /* PBXTextBookmark */ = 689481261382B09100599DA5 /* PBXTextBookmark */;
+			6894812B1382B1D300599DA5 /* PBXTextBookmark */ = 6894812B1382B1D300599DA5 /* PBXTextBookmark */;
+			6894812C1382B1D300599DA5 /* PBXTextBookmark */ = 6894812C1382B1D300599DA5 /* PBXTextBookmark */;
+			6894812D1382B1D300599DA5 /* PBXTextBookmark */ = 6894812D1382B1D300599DA5 /* PBXTextBookmark */;
+			689481341382B21F00599DA5 /* PBXTextBookmark */ = 689481341382B21F00599DA5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 68A6889613827495008D9456 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	46A8264413799D4E00308704 /* VollyballMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 1456}}";
+			sepNavSelRange = "{3133, 0}";
+			sepNavVisRange = "{37, 887}";
+		};
+	};
+	46A8264513799D4E00308704 /* VollyballMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 16835}}";
+			sepNavSelRange = "{4196, 0}";
+			sepNavVisRange = "{3245, 1579}";
+		};
+	};
+	46A8264E13799D7700308704 /* BasketballMainViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 910}}";
+			sepNavSelRange = "{1930, 19}";
+			sepNavVisRange = "{779, 1306}";
+		};
+	};
+	46A8264F13799D7700308704 /* BasketballMainViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1237, 8580}}";
+			sepNavSelRange = "{1222, 0}";
+			sepNavVisRange = "{1074, 1885}";
+		};
+	};
+	46A8265313799D8F00308704 /* BasketballSettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 572}}";
+			sepNavSelRange = "{1081, 0}";
+			sepNavVisRange = "{201, 958}";
+		};
+	};
+	46A8265413799D8F00308704 /* BasketballSettingsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2224, 2964}}";
+			sepNavSelRange = "{7484, 0}";
+			sepNavVisRange = "{5293, 597}";
+		};
+	};
+	46C25BC713818A7A00C5E445 /* VollyballSettingsViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 546}}";
+			sepNavSelRange = "{249, 0}";
+			sepNavVisRange = "{92, 1047}";
+		};
+	};
+	46C25BC813818A7A00C5E445 /* VollyballSettingsViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 3510}}";
+			sepNavSelRange = "{985, 0}";
+			sepNavVisRange = "{760, 1070}";
+		};
+	};
+	68947FF813828E7100599DA5 /* CGGeometry.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CGGeometry.h;
+		path = /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 3900}}";
+			sepNavSelRange = "{8443, 0}";
+			sepNavVisRange = "{7926, 871}";
+		};
+	};
+	68948031138292DD00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ScoreboardAppDelegate.h */;
+		name = "ScoreboardAppDelegate.h: 11";
+		rLen = 0;
+		rLoc = 190;
+		rType = 0;
+		vrLen = 559;
+		vrLoc = 0;
+	};
+	68948043138293BF00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ScoreboardAppDelegate.m */;
+		name = "ScoreboardAppDelegate.m: 13";
+		rLen = 0;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 1065;
+		vrLoc = 0;
+	};
+	68948044138293BF00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68A688E213827896008D9456 /* FBLoginDialog.m */;
+		name = "FBLoginDialog.m: 35";
+		rLen = 0;
+		rLoc = 1119;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 613;
+	};
+	68948045138293BF00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68947FF813828E7100599DA5 /* CGGeometry.h */;
+		name = "CGGeometry.h: 271";
+		rLen = 0;
+		rLoc = 8443;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 7926;
+	};
+	68948046138293BF00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68A688E413827896008D9456 /* FBDialog.m */;
+		name = "FBDialog.m: 586";
+		rLen = 0;
+		rLoc = 20502;
+		rType = 0;
+		vrLen = 1241;
+		vrLoc = 20592;
+	};
+	6894805A1382962700599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 68A688DF13827896008D9456 /* Facebook.m */;
+		name = "Facebook.m: 385";
+		rLen = 0;
+		rLoc = 14249;
+		rType = 0;
+		vrLen = 1660;
+		vrLoc = 7542;
+	};
+	689480D81382A3FC00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46C25BC713818A7A00C5E445 /* VollyballSettingsViewController.h */;
+		name = "VollyballSettingsViewController.h: 15";
+		rLen = 0;
+		rLoc = 249;
+		rType = 0;
+		vrLen = 1047;
+		vrLoc = 92;
+	};
+	689480EB1382A7AA00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8265313799D8F00308704 /* BasketballSettingsViewController.h */;
+		name = "BasketballSettingsViewController.h: 39";
+		rLen = 0;
+		rLoc = 1081;
+		rType = 0;
+		vrLen = 958;
+		vrLoc = 201;
+	};
+	689480EC1382A7AA00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264E13799D7700308704 /* BasketballMainViewController.h */;
+		name = "BasketballMainViewController.h: 56";
+		rLen = 19;
+		rLoc = 1930;
+		rType = 0;
+		vrLen = 1306;
+		vrLoc = 779;
+	};
+	689481251382B09100599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46C25BC813818A7A00C5E445 /* VollyballSettingsViewController.m */;
+		name = "VollyballSettingsViewController.m: 33";
+		rLen = 0;
+		rLoc = 985;
+		rType = 0;
+		vrLen = 1070;
+		vrLoc = 760;
+	};
+	689481261382B09100599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264413799D4E00308704 /* VollyballMainViewController.h */;
+		name = "VollyballMainViewController.h: 103";
+		rLen = 0;
+		rLoc = 3133;
+		rType = 0;
+		vrLen = 887;
+		vrLoc = 37;
+	};
+	6894812B1382B1D300599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264513799D4E00308704 /* VollyballMainViewController.m */;
+		name = "VollyballMainViewController.m: 109";
+		rLen = 0;
+		rLoc = 4196;
+		rType = 0;
+		vrLen = 1579;
+		vrLoc = 3245;
+	};
+	6894812C1382B1D300599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8265413799D8F00308704 /* BasketballSettingsViewController.m */;
+		name = "BasketballSettingsViewController.m: 157";
+		rLen = 0;
+		rLoc = 5542;
+		rType = 0;
+		vrLen = 1470;
+		vrLoc = 4419;
+	};
+	6894812D1382B1D300599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264F13799D7700308704 /* BasketballMainViewController.m */;
+		name = "BasketballMainViewController.m: 258";
+		rLen = 0;
+		rLoc = 11095;
+		rType = 0;
+		vrLen = 1317;
+		vrLoc = 10198;
+	};
+	689481341382B21F00599DA5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 46A8264F13799D7700308704 /* BasketballMainViewController.m */;
+		name = "BasketballMainViewController.m: 44";
+		rLen = 0;
+		rLoc = 1222;
+		rType = 0;
+		vrLen = 1885;
+		vrLoc = 1074;
+	};
+	68A6887013827478008D9456 /* Scoreboard */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Scoreboard;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	68A6889613827495008D9456 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	68A6889713827495008D9456 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	68A688DF13827896008D9456 /* Facebook.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 5785}}";
+			sepNavSelRange = "{14249, 0}";
+			sepNavVisRange = "{7542, 1660}";
+		};
+	};
+	68A688E213827896008D9456 /* FBLoginDialog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 1235}}";
+			sepNavSelRange = "{1119, 0}";
+			sepNavVisRange = "{613, 1119}";
+		};
+	};
+	68A688E413827896008D9456 /* FBDialog.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1194, 8762}}";
+			sepNavSelRange = "{20502, 0}";
+			sepNavVisRange = "{20592, 1241}";
+		};
+	};
+}

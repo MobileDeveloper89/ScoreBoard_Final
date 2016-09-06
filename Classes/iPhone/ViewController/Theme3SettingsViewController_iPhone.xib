@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="Theme3SettingsViewController_iPhone">
+            <connections>
+                <outlet property="view" destination="1" id="371"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="1" customClass="ColorPickerView">
+            <rect key="frame" x="0.0" y="0.0" width="480" height="320"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view autoresizesSubviews="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="307" customClass="ColorHomeView">
+                    <rect key="frame" x="20" y="137" width="189" height="23"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="405">
+                            <rect key="frame" x="39" y="-10" width="110" height="44"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="44" id="410"/>
+                                <constraint firstAttribute="width" constant="110" id="411"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" title="Home Color">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="SelectedHomeColor" destination="-1" eventType="touchUpInside" id="425"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="405" firstAttribute="centerY" secondItem="307" secondAttribute="centerY" id="408"/>
+                        <constraint firstItem="405" firstAttribute="centerX" secondItem="307" secondAttribute="centerX" id="414"/>
+                    </constraints>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="318" customClass="ColorGuestView">
+                    <rect key="frame" x="20" y="262" width="189" height="23"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="416">
+                            <rect key="frame" x="33" y="-10" width="123" height="44"/>
+                            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="123" id="421"/>
+                                <constraint firstAttribute="height" constant="44" id="424"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" type="boldSystem" pointSize="15"/>
+                            <state key="normal" title="Guest Color">
+                                <color key="titleColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                            </state>
+                            <connections>
+                                <action selector="SelectedGestColor" destination="-1" eventType="touchUpInside" id="427"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstItem="416" firstAttribute="centerY" secondItem="318" secondAttribute="centerY" id="418"/>
+                        <constraint firstItem="416" firstAttribute="centerX" secondItem="318" secondAttribute="centerX" id="422"/>
+                        <constraint firstItem="416" firstAttribute="leading" secondItem="318" secondAttribute="leading" constant="33" id="423"/>
+                    </constraints>
+                </view>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="crosshair.png" translatesAutoresizingMaskIntoConstraints="NO" id="330">
+                    <rect key="frame" x="38" y="195" width="17" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="17" id="342"/>
+                    </constraints>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="crosshair.png" translatesAutoresizingMaskIntoConstraints="NO" id="345">
+                    <rect key="frame" x="38" y="68" width="17" height="17"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="17" id="366"/>
+                        <constraint firstAttribute="width" constant="17" id="375"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="0.20000000300000001" green="0.20000000300000001" blue="0.20000000300000001" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="307" firstAttribute="leading" secondItem="1" secondAttribute="leading" constant="20" symbolic="YES" id="325"/>
+                <constraint firstItem="307" firstAttribute="leading" secondItem="318" secondAttribute="leading" id="326"/>
+                <constraint firstAttribute="bottom" secondItem="307" secondAttribute="bottom" constant="160" id="328"/>
+                <constraint firstItem="307" firstAttribute="trailing" secondItem="318" secondAttribute="trailing" id="361"/>
+                <constraint firstItem="330" firstAttribute="trailing" secondItem="345" secondAttribute="trailing" id="363"/>
+                <constraint firstItem="345" firstAttribute="leading" secondItem="330" secondAttribute="leading" id="365"/>
+                <constraint firstItem="307" firstAttribute="top" secondItem="1" secondAttribute="top" constant="137" id="372"/>
+                <constraint firstAttribute="bottom" secondItem="330" secondAttribute="bottom" constant="108" id="376"/>
+                <constraint firstItem="345" firstAttribute="top" secondItem="1" secondAttribute="top" constant="68" id="377"/>
+                <constraint firstItem="345" firstAttribute="leading" secondItem="1" secondAttribute="leading" constant="38" id="378"/>
+                <constraint firstItem="318" firstAttribute="top" secondItem="1" secondAttribute="top" constant="262" id="380"/>
+                <constraint firstAttribute="bottom" secondItem="318" secondAttribute="bottom" constant="35" id="403"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="brightnessBar" destination="330" id="369"/>
+                <outlet property="crossHairs" destination="345" id="370"/>
+                <outlet property="showColor" destination="307" id="368"/>
+                <outlet property="showColor1" destination="318" id="381"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="crosshair.png" width="37" height="37"/>
+    </resources>
+</document>
